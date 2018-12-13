@@ -29,6 +29,6 @@ In your Terminal, go to the project directory and run:
   <li>npm install</li>
   <li>npm start</li>
 </ul>
-Open <a href="http://localhost:3000"></a> in your browser.
+Open <a href="http://localhost:3000">http://localhost:3000</a> in your browser.
 </p>
-<p>This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).</p>
+<p>This project was bootstrapped with <a href="https://github.com/facebook/create-react-app">Create React App</a>.</p>
