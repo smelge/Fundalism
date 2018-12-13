@@ -23,12 +23,12 @@ Your system must be able to:<br>
 
 ## To run the app
 
-<p>
 In your Terminal, go to the project directory and run:
 <ul>
   <li>npm install</li>
   <li>npm start</li>
 </ul>
 Open <a href="http://localhost:3000">http://localhost:3000</a> in your browser.
-</p>
+<br>
+<br>
 <p>This project was bootstrapped with <a href="https://github.com/facebook/create-react-app">Create React App</a>.</p>
