@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 <h1>Brief</h1>
 
 A group of artists has asked you to create an app that maps street art around the world. The system is primarily for artists, but anyone vetted by the organisation should be able to use it to upload photographs of street art, and pin them to a specific location.
@@ -25,9 +23,12 @@ Your system must be able to:<br>
 
 ## To run the app
 
+<p>
 In your Terminal, go to the project directory and run:
 <ul>
   <li>npm install</li>
   <li>npm start</li>
 </ul>
 Open <a href="http://localhost:3000"></a> in your browser.
+</p>
+<p>This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).</p>
