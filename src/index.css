@@ -16,3 +16,9 @@ code {
 h1 {
   text-align: center;
 }
+
+#map {
+  height: 400px;
+  width: 400px;
+  border: 1px solid black;
+}
