@@ -10,6 +10,8 @@ Your system must be able to:<br>
   <li>Allow a user to add an image link to the pin</li>
   <li>Attach image to a specific pin</li>
   <li>Display a list of all the images</li>
+  <li>Add some styling with CSS</li>
+  <li>Set up a database to save the pinned information</li>
 </ul>
 
 <h2>Project Extensions</h2>
