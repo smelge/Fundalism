@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
-import Map from './containers/MapContainer.js';
-import './config.js';
+import 'bootstrap/dist/css/bootstrap.min.css';
+// import Map from './containers/MapContainer.js';
+// import './config.js';
 
 class App extends Component {
 
@@ -9,7 +10,7 @@ class App extends Component {
       <main>
       <h1>Fundalism</h1>
         <section id="map-container">
-          <Map />
+          <a className="btn btn-lg btn-success" href="#">Test Button</a>
         </section>
       </main>
     );
